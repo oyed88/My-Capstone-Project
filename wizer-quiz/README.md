@@ -11,7 +11,7 @@ Tailwind CSS
 JavaScript
 
 Getting Started
-git clone https://github.com/your-username/wizer-quiz.git
+git clone https://github.com/oyed88/wizer-quiz.git
 cd wizer-quiz
 npm install
 npm run dev
